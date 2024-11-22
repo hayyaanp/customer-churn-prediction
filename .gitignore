@@ -9,9 +9,3 @@ venv
 
 # Environment files
 .env.*
-
-# CSV files
-*.csv
-
-# Model and large files
-*.pkl
