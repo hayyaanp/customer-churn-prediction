@@ -1,0 +1,17 @@
+# System and editor files
+.DS_Store
+
+# Python cache files
+__pycache__/
+
+# Virtual environment
+venv
+
+# Environment files
+.env.*
+
+# CSV files
+*.csv
+
+# Model and large files
+*.pkl
